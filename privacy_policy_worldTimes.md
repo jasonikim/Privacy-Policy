@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Jason Kim built the World Times & Alarm - Widget app as a Commercial app. This SERVICE is provided by Jason Kim and is intended for use as is.
+Jason Kim built the World Clock iOS app as a Commercial app. This SERVICE is provided by Jason Kim and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
